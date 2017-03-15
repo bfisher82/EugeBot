@@ -13,7 +13,7 @@ public class EugeSpeechletRequestStreamHandler extends SpeechletRequestStreamHan
 	private static final Set<String> supportedApplicationIds = new HashSet<String>();
 
 	static {
-		//	skill id
+		//	skill id; ID of Amazon skill
 		supportedApplicationIds.add("INSERT AMAZON SKILL ID HERE");
 
 	}
