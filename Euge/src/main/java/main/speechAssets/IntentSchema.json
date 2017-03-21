@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "ApiIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+HelloWorldIntent say hello
+HelloWorldIntent say hello world
+HelloWorldIntent hello
+HelloWorldIntent say hi
+HelloWorldIntent say hi world
+HelloWorldIntent hi
+HelloWorldIntent how are you
+AMAZON.StopIntent alexa stop
+AMAZON.StopIntent stop
+AMAZON.StopIntent cancel
